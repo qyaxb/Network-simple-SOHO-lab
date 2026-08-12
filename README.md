@@ -1,6 +1,6 @@
-# Enterprise Network Infrastructure
+# SOHO Network Infrastructure
 
-Mô hình mạng doanh nghiệp nhỏ được thiết kế và triển khai trên Cisco Packet Tracer.
+Mô hình mạng doanh nghiệp nhỏ/Home Office được thiết kế và triển khai trên Cisco Packet Tracer.
 
 ## Tổng quan
 
